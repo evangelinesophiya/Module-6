@@ -18,3 +18,4 @@ To write a Python program that demonstrates class inheritance by creating a pare
 ## OUTPUT
 
 ## RESULT
+Thus , the program has been executed succesfully.
