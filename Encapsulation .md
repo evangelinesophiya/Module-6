@@ -27,3 +27,4 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ## Output
 
 ## Result
+Thus , the program has been executed succesfully.
