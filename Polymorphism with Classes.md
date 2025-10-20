@@ -30,3 +30,4 @@ To create two specific classes — `Beans` and `Mango`. Then, create a **generic
 ## Output
 
 ## Result
+Thus , the program has been executed succesfully.
